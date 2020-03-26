@@ -1,0 +1,266 @@
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name: zubquzaini
+Phone Number: 0197649482
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name: zubquzaini
+Phone Number: 0197649482
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name: zubquzaini
+Phone Number: 0197649482
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name: zubquzaini
+Phone Number: 0197649482
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name: zubquzaini
+Phone Number: 0197649482
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:DO990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM500.0
+Payment:RM500.0
+Balance:RM0.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:do717
+Number of ticket:1
+Price:RM171.0
+Date:12/12/19
+Time:1700
+Depart:KLIA
+Arrival:London
+******************************
+Price: RM171.0
+Price after discount:RM171.0
+Payment:RM200.0
+Balance:RM29.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
+******************************
+Fly Malaya Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:do990
+Number of ticket:2
+Price:RM250.0
+Date:17/12/19
+Time:1700
+Depart:KLIA
+Arrival:Riyadh
+******************************
+Price: RM500.0
+Price after discount:RM475.0
+Payment:RM500.0
+Balance:RM25.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
